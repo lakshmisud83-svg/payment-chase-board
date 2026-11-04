@@ -1,0 +1,144 @@
+PHYSIODESK - FAQ
+Bookings, follow-ups and pending fees for home visit physiotherapists in Hyderabad
+
+===========================================
+ABOUT US
+===========================================
+
+We are PhysioDesk.
+We are a small Hyderabad team. Two of us build the systems, one of us answers the phone.
+
+We help home visit physiotherapists.
+The ones who take bookings on WhatsApp and in a notebook.
+The ones who finish the month and find two or three families never paid.
+
+Here is the problem we keep hearing.
+A booking comes on WhatsApp. You write it in the notebook.
+The next visit never gets confirmed. The patient drifts away.
+Feedback is never asked for. So no patient ever sends a new one.
+
+We fix those three gaps.
+One short booking form that sorts package enquiries for a call back.
+One follow-up board that shows every rupee still pending.
+One morning plan for the day's visits.
+
+No app for your patients to download. No new software for you to learn.
+Just a clean system that runs on your phone.
+
+Call us: +91 98490 12345
+Email us: hello@physiodesk.in
+We serve: Hyderabad city, inside the Outer Ring Road.
+Mon to Sat, 9:00 am to 7:00 pm.
+
+===========================================
+20 QUESTIONS OUR CUSTOMERS ASK
+===========================================
+
+1. What exactly do I get?
+Three things. A short booking form. A follow-up board for pending fees. A morning plan for the day's visits.
+All built for you, in your name, ready to use.
+
+2. Is this an app my patients must download?
+No. Your patient fills a short form on a link.
+You send it on WhatsApp. That is all they see.
+
+3. What does the booking form do?
+It takes the basic details. Name, area, condition, preferred time.
+Package enquiries get sorted for a call back, so you are not typing prices at midnight.
+
+4. What does the follow-up board do?
+It shows every patient and every rupee still pending.
+Green means paid. Amber means due this week. Red means overdue.
+You open it once in the morning and know where you stand.
+
+5. What is the morning plan?
+One screen that tells you the day's visits in order.
+Who, where, what time, and how much is still to collect from that home.
+No more scrolling WhatsApp to rebuild your day.
+
+6. Will my patients need to pay you anything?
+No. Your patient pays you. We never touch their money and never message them for payment.
+
+7. How much does it cost?
+Rs 15,000 setup, then Rs 5,000 a month.
+That is it. No hidden charges.
+
+8. What does the Rs 15,000 setup cover?
+The booking form, the follow-up board, the morning plan, and the first setting up of your patient list.
+We build it, test it, and hand it over working.
+
+9. What does the Rs 5,000 a month cover?
+Hosting, fixes, small changes, and support on WhatsApp.
+If you add a new package or change your fees, tell us and we update it.
+
+10. Is there a long contract?
+No. Monthly. You can stop after any month.
+We ask for 30 days' notice so we can hand over your data neatly.
+
+11. How long does it take to set up?
+Five working days from the day we get your details.
+Most clinics are live in under a week.
+
+12. What do you need from me to start?
+Your patient list, if you have one. Your package names and prices. Your usual visit areas.
+A 30 minute call with us. That is all.
+
+13. Do I need to be good with computers?
+No. If you can use WhatsApp, you can use this.
+We set it up. We sit with you once and show you the three screens.
+
+14. What if my patient does not fill the form?
+We keep a quick entry screen for you.
+You type the name and time in ten seconds. The rest works the same way.
+
+15. Can it handle my packages, like 10 sessions or a monthly plan?
+Yes. You tell us your packages and prices once.
+The form sorts package enquiries for a call back, so you quote the right price every time.
+
+16. Will it remind patients about the next visit?
+It gives you a ready list of who needs a confirmation message today.
+You send it from your own WhatsApp, in your own words.
+
+17. Will it get me new patients?
+It will get you feedback you can ask for and share.
+Happy patients get a simple request for a review or a referral.
+That is how new patients start coming in.
+
+18. What happens after I pay the setup fee?
+We book your 30 minute call within one working day.
+Then we build for five days. Then we hand over and train you.
+You start using it the same week.
+
+19. What if something breaks or I want a change?
+Message us on WhatsApp. We reply the same working day.
+Small changes are included in the monthly fee.
+
+20. What if it does not work for my practice?
+Use it for the first month. If it saves you less than it costs, tell us.
+We will fix it or stop it. No argument.
+
+===========================================
+WHAT TO DO NEXT
+===========================================
+
+Send "START" on WhatsApp to +91 98490 12345.
+Or email hello@physiodesk.in.
+We will reply with three simple questions and a time for your call.
+
+===========================================
+GUESSES WE MADE
+===========================================
+
+These were not given to us, so we chose sensible values.
+Change any of them and we will update this file.
+
+- Business name: PhysioDesk.
+- Contact phone: +91 98490 12345.
+- Email: hello@physiodesk.in.
+- Working hours: Mon to Sat, 9:00 am to 7:00 pm.
+- Area served: Hyderabad city, inside the Outer Ring Road.
+- Setup time: five working days.
+- Notice to stop: 30 days.
+- Support channel: WhatsApp, same working day reply.
+- Payment terms: setup fee before the build starts, monthly fee from the go live date.
+- Whether tax is included: prices are stated as plain amounts, tax not mentioned.
