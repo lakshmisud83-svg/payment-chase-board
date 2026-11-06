@@ -11,3 +11,4 @@
 - Reverted test change -> execute_sql delete event + update status pending -> events 0
 - Started one dev server -> npm.cmd run dev -> Next.js 16.4.5 Ready, Local http://localhost:3000
 - Opened the page -> GET http://localhost:3000 -> STATUS 200, 15 rows, "16,300" present
+- Pushed to GitHub and deployed to Vercel -> GET https://payment-chase-board-vert.vercel.app -> HTTP 200, title "Payment chase board", 11 open rows
